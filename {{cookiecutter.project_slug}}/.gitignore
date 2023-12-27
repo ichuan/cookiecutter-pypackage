@@ -1,0 +1,11 @@
+*.swp
+*.mo
+*.py[cod]
+.DS_Store
+
+__pycache__/
+*.egg-info/
+/pip-wheel-metadata/
+/build/
+/dist/
+/.venv/

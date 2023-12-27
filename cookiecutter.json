@@ -1,0 +1,8 @@
+{
+  "author": "Anonymous",
+  "project_name": "Python Package",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "project_short_description": "Sample python package",
+  "version": "0.1.0",
+  "python_version": ["3.12", "3.11", "3.10", "3.9", "3.8", "3.7", "2.7"]
+}
